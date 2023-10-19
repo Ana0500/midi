@@ -8,7 +8,7 @@
 :waxing_gibbous_moon:	
 	:full_moon:		:waning_gibbous_moon:	:last_quarter_moon:		:waning_crescent_moon:	 :jack_o_lantern:
 		:crescent_moon:	:new_moon_with_face:
-		:first_quarter_moon_with_face:		:last_quarter_moon_with_face:	
+	:monocle_face:	:first_quarter_moon_with_face:		:last_quarter_moon_with_face:	
 		:thermometer:		:sunny:	
 		:full_moon_with_face:		:sun_with_face:	:bamboo:  :black_cat: :black_cat: :black_cat: :black_cat: :black_cat: :black_cat: :black_cat::black_cat::black_cat::black_cat:
 		:ringed_planet:		:star:  :red_envelope: :fish_cake: :dango: :snail:
