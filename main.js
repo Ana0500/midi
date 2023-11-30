@@ -10,7 +10,7 @@ else{
     console.log('Elemento não encontrado ou seletor inválido'); 
    }
 
-}
+
 
 const listaDeTeclas = document.querySelectorAll('.tecla');
 
@@ -36,4 +36,4 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
         tecla.classList.remove('ativa');
     }
 
-
+}
